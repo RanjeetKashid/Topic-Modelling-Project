@@ -19,3 +19,9 @@ optimized the model by tuning the hyper parameters (number of topics, alpha and 
 their percentage contribution to the whole corpus.
 5. Deployed the model using streamlit, created a user interface where the output is visualized just by 
 entering the Google news link.
+
+Files:
+
+Python file - TopicModelling.py
+
+Streamlit file - Topic_Modellingst.py
